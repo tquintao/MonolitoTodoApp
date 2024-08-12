@@ -1,14 +1,23 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
+﻿using System;
 
-namespace MonolithicTodoApp
+// Define um namespace chamado MonolithicTodoApp para organizar o código
+namespace MonolitoTodoApp
 {
+   //classe principal que contém o método Main (ponto de entrada do programa), onde a execução da aplicação começa.
     class Program
     {
+        //Método principal e ponto de entrada do programa, executado quando inicia a aplicação.
         static void Main(string[] args)
         {
+            /* Nova instância da classe TodoManager, responsável por gerenciar a lista de tarefas. 
+             * Esse objeto (todoManager) será usado para adicionar, listar e remover tarefas.
+             */
             var todoManager = new TodoManager();
 
+            /* Este é um loop infinito, o que significa que a aplicação continuará rodando 
+             * até que a opção de sair (Exit) seja escolhida. Dentro desse loop, o programa 
+             * exibe o menu principal repetidamente e processa a entrada do usuário.
+             */
             while (true)
             {
                 Console.WriteLine("To-Do List Application");
