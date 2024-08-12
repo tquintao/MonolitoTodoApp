@@ -1,0 +1,15 @@
+C:\Users\Windows 10\MonolitoTodoApp\bin\Debug\net6.0\MonolitoTodoApp.exe
+C:\Users\Windows 10\MonolitoTodoApp\bin\Debug\net6.0\MonolitoTodoApp.deps.json
+C:\Users\Windows 10\MonolitoTodoApp\bin\Debug\net6.0\MonolitoTodoApp.runtimeconfig.json
+C:\Users\Windows 10\MonolitoTodoApp\bin\Debug\net6.0\MonolitoTodoApp.dll
+C:\Users\Windows 10\MonolitoTodoApp\bin\Debug\net6.0\MonolitoTodoApp.pdb
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.csproj.AssemblyReference.cache
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.AssemblyInfoInputs.cache
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.AssemblyInfo.cs
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.dll
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\refint\MonolitoTodoApp.dll
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.pdb
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\MonolitoTodoApp.genruntimeconfig.cache
+C:\Users\Windows 10\MonolitoTodoApp\obj\Debug\net6.0\ref\MonolitoTodoApp.dll
